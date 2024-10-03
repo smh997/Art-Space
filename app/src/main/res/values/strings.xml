@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork_1_title">Paris Street; Rainy DayDate</string>
+    <string name="artwork_1_artist">Gustave Caillebotte (1877)</string>
+    <string name="artwork_2_title">Fishing Boats with Hucksters Bargaining for FishDate</string>
+    <string name="artwork_2_artist">Joseph Mallord William Turner (1837)</string>
+    <string name="artwork_3_title">Love of WinterDate</string>
+    <string name="artwork_3_artist">George Wesley Bellows (1914)</string>
+    <string name="artwork_4_title">Souvenir of TuscanyDate</string>
+    <string name="artwork_4_artist">Jean-Baptiste-Camille Corot(1845)</string>
+    <string name="artwork_5_title">Pastoral Landscape with RuinsDate</string>
+    <string name="artwork_5_artist">Adriaen van de Velde (1664)</string>
+</resources>
